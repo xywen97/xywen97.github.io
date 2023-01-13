@@ -25,7 +25,7 @@ Hello, my name is Wen Xiangyu. I am now studying in The Chinese University of Ho
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAD 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAD 2021</div><img src='images/TCAD_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpretability-guided defense against backdoor attacks to deep neural networks](https://ieeexplore.ieee.org/abstract/document/9530722)
@@ -37,7 +37,7 @@ Wei Jiang, **Xiangyu Wen**, Jinyu Zhan, Xupeng Wang, Ziwei Song
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/TNNLS_2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Critical Path-Based Backdoor Detection for Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/9882007)
@@ -49,7 +49,7 @@ Wei Jiang, **Xiangyu Wen**, Jinyu Zhan, Xupeng Wang, Ziwei Song, Chen Bian
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMSOFT 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMSOFT 2021</div><img src='images/EMSOFT_2021png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Work-in-Progress: Generative Strategy based Backdoor Attacks to 3D Point Clouds](https://ieeexplore.ieee.org/abstract/document/9589486)
@@ -61,7 +61,7 @@ Wei Jiang, **Xiangyu Wen**, Jinyu Zhan, Xupeng Wang, Ziwei Song, Chen Bian
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMSOFT 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMSOFT 2020</div><img src='images/EMSOFT_2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpretability Derived Backdoor Attacks Detection in Deep Neural Networks: Work-in-Progress](https://ieeexplore.ieee.org/abstract/document/9244019)
