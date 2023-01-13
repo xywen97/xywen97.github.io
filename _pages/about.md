@@ -21,7 +21,7 @@ Hello, my name is Wen Xiangyu. I am now studying in The Chinese University of Ho
 
 
 # 🔥 News
-- *2022.11*: &nbsp;🎉🎉 I won the 2nd place in the International Algorithm Case Competition. 
+- *2022.11*: &nbsp;🎉🎉 Won 2nd place in the International Algorithm Case Competition. 
 
 # 📝 Publications 
 
