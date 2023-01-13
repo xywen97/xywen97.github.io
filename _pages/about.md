@@ -103,4 +103,4 @@ Wei Jiang, **Xiangyu Wen**, Jinyu Zhan, Xupeng Wang, Ziwei Song, Chen Bian
 
 # 💻 Internships
 - *2018.12 - 2019.04*, [Jeejio](https://www.jeejio.com/), China.
-- *2018.01 - 2019.08*, [Chengdu Lian'an](https://www.lianantech.com/#/index?index=0), China.
+- *2018.01 - 2018.08*, [Chengdu Lian'an](https://www.lianantech.com/#/index?index=0), China.
