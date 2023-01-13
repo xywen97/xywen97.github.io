@@ -49,7 +49,7 @@ Wei Jiang, **Xiangyu Wen**, Jinyu Zhan, Xupeng Wang, Ziwei Song, Chen Bian
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMSOFT 2021</div><img src='images/EMSOFT_2021png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMSOFT 2021</div><img src='images/EMSOFT_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Work-in-Progress: Generative Strategy based Backdoor Attacks to 3D Point Clouds](https://ieeexplore.ieee.org/abstract/document/9589486)
