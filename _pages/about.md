@@ -93,9 +93,9 @@ Wei Jiang\*, **Xiangyu Wen\***, Jinyu Zhan, Xupeng Wang, Ziwei Song, Chen Bian
 - *2016.12* Won National Encouragement scholarship. 
 
 # 📖 Educations
-- *2022.08 - now*, Department of Computer Science and Engineering, The Chinese University of Hong Kong. 
+- *2022.08 - now*, as a Ph. D. Student in the Department of Computer Science and Engineering, The Chinese University of Hong Kong. 
 - *2019.09 - 2022.06*, as a Master student in University of Electronic Science and Technology of China. 
-- *2015.09 - 2019.06*, as a Bachelor student in University of Electronic Science and Technology of China. 
+- *2015.09 - 2019.06*, as a Undergraduate student in University of Electronic Science and Technology of China. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
