@@ -101,7 +101,7 @@ Wei Jiang\*, **Xiangyu Wen\***, Jinyu Zhan, Xupeng Wang, Ziwei Song, Chen Bian
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 📖 Teaching Assitants
+# 🏫 Teaching Assitants
 - *2022.09 - 2022.12*, TA of Embedded System Design (CENG2400).
 - *2023.01 - 2023.04*, TA of Embedded System Development and Applications (CENG4480).
 
