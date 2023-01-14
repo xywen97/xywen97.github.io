@@ -110,4 +110,4 @@ Wei Jiang\*, **Xiangyu Wen\***, Jinyu Zhan, Xupeng Wang, Ziwei Song, Chen Bian
 - *2018.01 - 2018.08*, [Chengdu Lian'an](https://www.lianantech.com/#/index?index=0), China.
 
 # 🗺️ Visitors
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5JXi70BoxWHO9ixXqYYQ4s-MvG00wv-XS_SJ5_XyIBo"></script>
+<a href="https://clustrmaps.com/site/1bsfb"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=5JXi70BoxWHO9ixXqYYQ4s-MvG00wv-XS_SJ5_XyIBo&cl=ffffff" /></a>
