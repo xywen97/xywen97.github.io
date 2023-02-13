@@ -42,7 +42,7 @@ Wei Jiang\*, **Xiangyu Wen\***, Jinyu Zhan, Xupeng Wang, Ziwei Song, Chen Bian
 
 [Interpretability-guided defense against backdoor attacks to deep neural networks](https://ieeexplore.ieee.org/abstract/document/9530722)
 
-Wei Jiang\*, **Xiangyu Wen\***, Jinyu Zhan, Xupeng Wang, Ziwei Song
+Wei Jiang, **Xiangyu Wen**, Jinyu Zhan, Xupeng Wang, Ziwei Song
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
