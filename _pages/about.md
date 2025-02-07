@@ -17,13 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Science and Engineering at the Chinese University of Hong Kong as a first-year Ph.D. student. Now I am studying in the CUHK REliable Computing Laboratory (CURE Lab.) and my supervisor is Prof. XU Qiang. Before this, I got my Bachelor's and Master's Degrees (supervised by Prof. Jiang Wei) from the University of Electronic Science and Technology of China. My research interests are about Deep learning and AI security.
+Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Science and Engineering at the Chinese University of Hong Kong as a third-year Ph.D. student. Now I am studying in the CUHK REliable Computing Laboratory (CURE Lab.) and my supervisor is Prof. XU Qiang. Before this, I got my Bachelor's and Master's Degrees (supervised by Prof. Jiang Wei) from the University of Electronic Science and Technology of China. My research interests are about Large Language Model (Reasoning) and AI security.
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 Our paper was accepted by NAACL 2025. 
 - *2022.11*: &nbsp;🎉🎉 Won 2nd place in the International Algorithm Case Competition. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/NAACL_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Guideline Compliance in Task-Oriented Dialogue: The Chained Prior Approach](https://openreview.net/forum?id=9QgKAE08d9#discussion)
+
+**Xiangyu Wen\***, Jianyuan Zhong\*, Zhijian Xu, Qiang Xu
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/TNNLS_2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -102,6 +115,7 @@ Wei Jiang, **Xiangyu Wen**, Jinyu Zhan, Xupeng Wang, Ziwei Song
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 🏫 Teaching Assitants
+- *2023.09 - 2023.12*, TA of Embedded System Development and Applications (CENG4480).
 - *2023.01 - 2023.04*, TA of Embedded System Development and Applications (CENG4480) (Excellent TA).
 - *2022.09 - 2022.12*, TA of Embedded System Design (CENG2400).
 
