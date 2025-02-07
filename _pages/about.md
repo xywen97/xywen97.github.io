@@ -31,7 +31,7 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 
 [Guideline Compliance in Task-Oriented Dialogue: The Chained Prior Approach](https://openreview.net/forum?id=9QgKAE08d9#discussion)
 
-**Xiangyu Wen\***, Jianyuan Zhong\*, Zhijian Xu, Qiang Xu
+**Xiangyu Wen\***, Jianyuan Zhong, Zhijian Xu, Qiang Xu
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
