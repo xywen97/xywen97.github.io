@@ -92,6 +92,7 @@ Wei Jiang, **Xiangyu Wen**, Jinyu Zhan, Xupeng Wang, Ziwei Song
 - [Heatmap-Aware Low-Cost Design to Resist Adversarial Attacks: Work-in-Progress](https://ieeexplore.ieee.org/abstract/document/9244017), Zhiyuan He, Wei Jiang, Jinyu Zhan, Xupeng Wang, Xiangyu Wen, **CODES+ISSS 2020**
 
 # 🎖 Honors and Awards
+- *2023.06* Excellent Teaching Assistant.
 - *2022.11* Won 2nd. place in the International Algorithm Case Competition. 
 - *2022.08* Full Postgraduate Studentship, The Chinese University of Hong Kong.
 - *2022.03* Won Outstanding Graduates of Sichuan Province.
