@@ -23,6 +23,7 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 Our paper is accepted by NAACL 2025. 
 - *2024.10*: &nbsp;🎉🎉 Our paper is accepted by IEEE JETCAS 2024. 
+- *2024.09*: &nbsp;🎉🎉 Our paper is accepted by IEEE Transactions on Computers (TC) 2024. 
 - *2022.11*: &nbsp;🎉🎉 Won 2nd place in the International Algorithm Case Competition. 
 
 # 📝 Publications 
@@ -43,6 +44,17 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 [On Function-Coupled Watermarks for Deep Neural Networks](https://ieeexplore.ieee.org/document/10738841)
 
 **Xiangyu Wen**, Yu Li, Wei Jiang, Qiang Xu
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TC 2024</div><img src='images/TC_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Highly Evasive Targeted Bit-Trojan on Deep Neural Networks](https://ieeexplore.ieee.org/document/10564839)
+
+Lingxin Jin, Wei Jiang, Jinyu Zhan, **Xiangyu Wen**
 
 </div>
 </div>
