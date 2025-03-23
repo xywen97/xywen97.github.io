@@ -21,12 +21,23 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 Our paper is accepted by ACM Computing Surveys. 
 - *2025.01*: &nbsp;🎉🎉 Our paper is accepted by NAACL 2025. 
 - *2024.10*: &nbsp;🎉🎉 Our paper is accepted by IEEE JETCAS 2024. 
 - *2024.09*: &nbsp;🎉🎉 Our paper is accepted by IEEE Transactions on Computers (TC) 2024. 
 - *2022.11*: &nbsp;🎉🎉 Won 2nd place in the International Algorithm Case Competition. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/CSUR_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Trojan Attacks and Countermeasures on Deep Neural Networks from Life-Cycle Perspective: A Review](https://arxiv.org/pdf/2408.08920v1)
+
+Lingxin Jin, **Xiangyu Wen**, Wei Jiang, Jinyu Zhan
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/NAACL_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
