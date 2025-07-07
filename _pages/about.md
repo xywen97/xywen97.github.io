@@ -21,6 +21,7 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Our paper is accepted by ICCAD 2025. 
 - *2025.03*: &nbsp;🎉🎉 Our paper is accepted by ACM Computing Surveys. 
 - *2025.01*: &nbsp;🎉🎉 Our paper is accepted by NAACL 2025. 
 - *2024.10*: &nbsp;🎉🎉 Our paper is accepted by IEEE JETCAS 2024. 
@@ -29,7 +30,18 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Computing Surveys</div><img src='images/CSUR_2025.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2025</div><img src='images/ICCAD_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs](https://xywen97.github.io/MMCircuitEval/)
+
+Chenchen Zhao\*, Zhengyuan Shi\*, **Xiangyu Wen\***, ..., Qiang Xu
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Computing Surveys 2025</div><img src='images/CSUR_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Trojan Attacks and Countermeasures on Deep Neural Networks from Life-Cycle Perspective: A Review](https://arxiv.org/pdf/2408.08920v1)
