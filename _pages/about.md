@@ -144,16 +144,6 @@ Wei Jiang, **Xiangyu Wen**, Jinyu Zhan, Xupeng Wang, Ziwei Song
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMSOFT 2020</div><img src='images/EMSOFT_2020.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Interpretability Derived Backdoor Attacks Detection in Deep Neural Networks: Work-in-Progress](https://ieeexplore.ieee.org/abstract/document/9244019)
-
-**Xiangyu Wen**, Wei Jiang, Jinyu Zhan, Xupeng Wang, Zhiyuan He
-
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CODES+ISSS 2021</div><img src='images/CODES+ISSS_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -172,6 +162,16 @@ Chen Bian, Wei Jiang, Jinyu Zhan, Ziwei Song, **Xiangyu Wen**, Hong Lei
 [Work-in-Progress: Critical-Weight Based Locking Scheme for DNN IP Protection in Edge Computing](https://ieeexplore.ieee.org/abstract/document/9603370)
 
 Ziwei Song, Wei Jiang, Jinyu Zhan, **Xiangyu Wen**, Chen Bian
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMSOFT 2020</div><img src='images/EMSOFT_2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interpretability Derived Backdoor Attacks Detection in Deep Neural Networks: Work-in-Progress](https://ieeexplore.ieee.org/abstract/document/9244019)
+
+**Xiangyu Wen**, Wei Jiang, Jinyu Zhan, Xupeng Wang, Zhiyuan He
 
 </div>
 </div>
