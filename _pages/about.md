@@ -32,6 +32,17 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/GRiD_NeurIPS_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding](https://openreview.net/forum?id=DlkM0q4Cvk&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions))
+
+**Xiangyu Wen**, Min Li, Junhua Huang, Jianyuan Zhong, Zhijian Xu, Zeju Li, Yongxiang Huang, Mingxuan Yuan, Qiang Xu
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/Dyve_EMNLP_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
