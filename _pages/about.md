@@ -55,7 +55,7 @@ Chenchen Zhao\*, Zhengyuan Shi\*, **Xiangyu Wen\***, ..., Qiang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Computing Surveys 2025</div><img src='images/CSUR_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Trojan Attacks and Countermeasures on Deep Neural Networks from Life-Cycle Perspective: A Review](https://arxiv.org/pdf/2408.08920v1)
+[Trojan Attacks and Countermeasures on Deep Neural Networks from Life-Cycle Perspective: A Review](https://dl.acm.org/doi/10.1145/3727640)
 
 Lingxin Jin\*, **Xiangyu Wen\***, Wei Jiang, Jinyu Zhan
 
