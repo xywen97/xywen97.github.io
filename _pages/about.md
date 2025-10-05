@@ -32,7 +32,7 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2025</div><img src='images/Dyve_EMNLP_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/Dyve_EMNLP_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dyve: Thinking Fast and Slow for Dynamic Process Verification](https://openreview.net/forum?id=FcTmeeKnaV&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DEMNLP%2F2025%2FConference%2FAuthors%23your-submissions))
@@ -41,7 +41,6 @@ Jianyuan Zhong, Zeju Li, Zhijian Xu, **Xiangyu Wen**, Qiang Xu
 
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2025</div><img src='images/ICCAD_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
