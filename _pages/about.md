@@ -21,6 +21,8 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Our paper is accepted by NeurIPS 2025. 
+- *2025.08*: &nbsp;🎉🎉 Our paper is accepted by EMNLP 2025. 
 - *2025.07*: &nbsp;🎉🎉 Our paper is accepted by ICCAD 2025. 
 - *2025.03*: &nbsp;🎉🎉 Our paper is accepted by ACM Computing Surveys. 
 - *2025.01*: &nbsp;🎉🎉 Our paper is accepted by NAACL 2025. 
@@ -29,6 +31,16 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 - *2022.11*: &nbsp;🎉🎉 Won 2nd place in the International Algorithm Case Competition. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2025</div><img src='images/Dyve_EMNLP_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dyve: Thinking Fast and Slow for Dynamic Process Verification](https://openreview.net/forum?id=FcTmeeKnaV&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DEMNLP%2F2025%2FConference%2FAuthors%23your-submissions))
+
+Jianyuan Zhong, Zeju Li, Zhijian Xu, **Xiangyu Wen**, Qiang Xu
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2025</div><img src='images/ICCAD_2025.png' alt="sym" width="100%"></div></div>
