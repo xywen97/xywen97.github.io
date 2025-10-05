@@ -22,14 +22,15 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 
 # 🔥 News
 
-<details>
-<summary><strong>Click to expand/collapse news</strong></summary>
-
 - *2025.09*: &nbsp;🎉🎉 Our paper is accepted by NeurIPS 2025. 
 - *2025.08*: &nbsp;🎉🎉 Our paper is accepted by EMNLP 2025. 
 - *2025.07*: &nbsp;🎉🎉 Our paper is accepted by ICCAD 2025. 
 - *2025.03*: &nbsp;🎉🎉 Our paper is accepted by ACM Computing Surveys. 
 - *2025.01*: &nbsp;🎉🎉 Our paper is accepted by NAACL 2025. 
+
+<details>
+<summary><strong>Click to expand/collapse older news</strong></summary>
+
 - *2024.10*: &nbsp;🎉🎉 Our paper is accepted by IEEE JETCAS 2024. 
 - *2024.09*: &nbsp;🎉🎉 Our paper is accepted by IEEE Transactions on Computers (TC) 2024. 
 - *2022.11*: &nbsp;🎉🎉 Won 2nd place in the International Algorithm Case Competition.
@@ -38,7 +39,9 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/GRiD_NeurIPS_2025.png' alt="sym" width="100%"></div></div>
+## Recent Papers (2025)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/GRiD_NeurIPS_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding](https://openreview.net/forum?id=DlkM0q4Cvk&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions))
@@ -47,7 +50,6 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/Dyve_EMNLP_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -89,6 +91,9 @@ Lingxin Jin\*, **Xiangyu Wen\***, Wei Jiang, Jinyu Zhan
 </div>
 </div>
 
+<details>
+<summary><strong>Click to expand/collapse older publications</strong></summary>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JETCAS 2024</div><img src='images/JETCAS_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -98,7 +103,6 @@ Lingxin Jin\*, **Xiangyu Wen\***, Wei Jiang, Jinyu Zhan
 
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TC 2024</div><img src='images/TC_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -110,7 +114,6 @@ Lingxin Jin, Wei Jiang, Jinyu Zhan, **Xiangyu Wen**
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/TNNLS_2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -118,8 +121,6 @@ Lingxin Jin, Wei Jiang, Jinyu Zhan, **Xiangyu Wen**
 
 Wei Jiang\*, **Xiangyu Wen\***, Jinyu Zhan, Xupeng Wang, Ziwei Song, Chen Bian
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
@@ -130,8 +131,6 @@ Wei Jiang\*, **Xiangyu Wen\***, Jinyu Zhan, Xupeng Wang, Ziwei Song, Chen Bian
 
 Wei Jiang, **Xiangyu Wen**, Jinyu Zhan, Xupeng Wang, Ziwei Song
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
@@ -142,8 +141,6 @@ Wei Jiang, **Xiangyu Wen**, Jinyu Zhan, Xupeng Wang, Ziwei Song
 
 **Xiangyu Wen**, Wei Jiang, Jinyu Zhan, Chen Bian, Ziwei Song
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
@@ -154,8 +151,6 @@ Wei Jiang, **Xiangyu Wen**, Jinyu Zhan, Xupeng Wang, Ziwei Song
 
 **Xiangyu Wen**, Wei Jiang, Jinyu Zhan, Xupeng Wang, Zhiyuan He
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
@@ -163,6 +158,8 @@ Wei Jiang, **Xiangyu Wen**, Jinyu Zhan, Xupeng Wang, Ziwei Song
 - [Work-in-Progress: A Physically Realizable Backdoor Attack on 3D Point Cloud Deep Learning](https://ieeexplore.ieee.org/abstract/document/9603381), Chen Bian, Wei Jiang, Jinyu Zhan, Ziwei Song, Xiangyu Wen, Hong Lei, **CODES+ISSS 2021**
 - [Work-in-Progress: Critical-Weight Based Locking Scheme for DNN IP Protection in Edge Computing](https://ieeexplore.ieee.org/abstract/document/9603370), Ziwei Song, Wei Jiang, Jinyu Zhan, Xiangyu Wen, Chen Bian, **CODES+ISSS 2021**
 - [Heatmap-Aware Low-Cost Design to Resist Adversarial Attacks: Work-in-Progress](https://ieeexplore.ieee.org/abstract/document/9244017), Zhiyuan He, Wei Jiang, Jinyu Zhan, Xupeng Wang, Xiangyu Wen, **CODES+ISSS 2020**
+
+</details>
 
 # 🎖 Honors and Awards
 - *2023.06* Excellent Teaching Assistant.
