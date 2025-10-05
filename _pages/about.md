@@ -57,7 +57,7 @@ Chenchen Zhao\*, Zhengyuan Shi\*, **Xiangyu Wen\***, ..., Qiang Xu
 
 [Trojan Attacks and Countermeasures on Deep Neural Networks from Life-Cycle Perspective: A Review](https://arxiv.org/pdf/2408.08920v1)
 
-Lingxin Jin, **Xiangyu Wen**, Wei Jiang, Jinyu Zhan
+Lingxin Jin\*, **Xiangyu Wen\***, Wei Jiang, Jinyu Zhan
 
 </div>
 </div>
