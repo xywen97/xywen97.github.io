@@ -154,10 +154,21 @@ Wei Jiang, **Xiangyu Wen**, Jinyu Zhan, Xupeng Wang, Ziwei Song
 </div>
 </div>
 
-- [Optimized co-scheduling of mixed-precision neural network accelerator for real-time multitasking applications](https://www.sciencedirect.com/science/article/pii/S1383762120300692), Wei Jiang, Ziwei Song, Jinyu Zhan, Zhiyuan He, Xiangyu Wen, Ke Jiang, **Journal of Systems Architecture 2020**
-- [Work-in-Progress: A Physically Realizable Backdoor Attack on 3D Point Cloud Deep Learning](https://ieeexplore.ieee.org/abstract/document/9603381), Chen Bian, Wei Jiang, Jinyu Zhan, Ziwei Song, Xiangyu Wen, Hong Lei, **CODES+ISSS 2021**
-- [Work-in-Progress: Critical-Weight Based Locking Scheme for DNN IP Protection in Edge Computing](https://ieeexplore.ieee.org/abstract/document/9603370), Ziwei Song, Wei Jiang, Jinyu Zhan, Xiangyu Wen, Chen Bian, **CODES+ISSS 2021**
-- [Heatmap-Aware Low-Cost Design to Resist Adversarial Attacks: Work-in-Progress](https://ieeexplore.ieee.org/abstract/document/9244017), Zhiyuan He, Wei Jiang, Jinyu Zhan, Xupeng Wang, Xiangyu Wen, **CODES+ISSS 2020**
+**Journal of Systems Architecture 2020**
+- [Optimized co-scheduling of mixed-precision neural network accelerator for real-time multitasking applications](https://www.sciencedirect.com/science/article/pii/S1383762120300692)
+- Wei Jiang, Ziwei Song, Jinyu Zhan, Zhiyuan He, **Xiangyu Wen**, Ke Jiang
+
+**CODES+ISSS 2021**
+- [Work-in-Progress: A Physically Realizable Backdoor Attack on 3D Point Cloud Deep Learning](https://ieeexplore.ieee.org/abstract/document/9603381)
+- Chen Bian, Wei Jiang, Jinyu Zhan, Ziwei Song, **Xiangyu Wen**, Hong Lei
+
+**CODES+ISSS 2021**
+- [Work-in-Progress: Critical-Weight Based Locking Scheme for DNN IP Protection in Edge Computing](https://ieeexplore.ieee.org/abstract/document/9603370)
+- Ziwei Song, Wei Jiang, Jinyu Zhan, **Xiangyu Wen**, Chen Bian
+
+**CODES+ISSS 2020**
+- [Heatmap-Aware Low-Cost Design to Resist Adversarial Attacks: Work-in-Progress](https://ieeexplore.ieee.org/abstract/document/9244017)
+- Zhiyuan He, Wei Jiang, Jinyu Zhan, Xupeng Wang, **Xiangyu Wen**
 
 </details>
 
