@@ -21,6 +21,10 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 
 
 # 🔥 News
+
+<details>
+<summary><strong>Click to expand/collapse news</strong></summary>
+
 - *2025.09*: &nbsp;🎉🎉 Our paper is accepted by NeurIPS 2025. 
 - *2025.08*: &nbsp;🎉🎉 Our paper is accepted by EMNLP 2025. 
 - *2025.07*: &nbsp;🎉🎉 Our paper is accepted by ICCAD 2025. 
@@ -28,7 +32,9 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 - *2025.01*: &nbsp;🎉🎉 Our paper is accepted by NAACL 2025. 
 - *2024.10*: &nbsp;🎉🎉 Our paper is accepted by IEEE JETCAS 2024. 
 - *2024.09*: &nbsp;🎉🎉 Our paper is accepted by IEEE Transactions on Computers (TC) 2024. 
-- *2022.11*: &nbsp;🎉🎉 Won 2nd place in the International Algorithm Case Competition. 
+- *2022.11*: &nbsp;🎉🎉 Won 2nd place in the International Algorithm Case Competition.
+
+</details> 
 
 # 📝 Publications 
 
