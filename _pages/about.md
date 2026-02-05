@@ -236,7 +236,7 @@ Zhiyuan He, Wei Jiang, Jinyu Zhan, Xupeng Wang, **Xiangyu Wen**
 - *2016.12* Won National Encouragement scholarship. 
 
 # 📖 Educations
-- *2022.08 - now*, &nbsp; &nbsp;as a Ph. D. Student in the Department of Computer Science and Engineering, the Chinese University of Hong Kong. 
+- *2022.08 - now*, &nbsp; &nbsp;as a Ph. D. Candidate in the Department of Computer Science and Engineering, the Chinese University of Hong Kong. 
 - *2019.09 - 2022.06*, as a Master student in University of Electronic Science and Technology of China. 
 - *2015.09 - 2019.06*, as a Undergraduate student in University of Electronic Science and Technology of China. 
 
@@ -250,6 +250,7 @@ Zhiyuan He, Wei Jiang, Jinyu Zhan, Xupeng Wang, **Xiangyu Wen**
 - *2022.09 - 2022.12*, TA of Embedded System Design (CENG2400).
 
 # 💻 Internships
+- *2024.10 - 2025.08*, [HUAWEI Noah's Ark Lab](http://dev3.noahlab.com.hk/), China, ShenZhen.
 - *2018.12 - 2019.04*, [Jeejio](https://www.jeejio.com/), China.
 - *2018.01 - 2018.08*, [Chengdu Lian'an](https://www.lianantech.com/#/index?index=0), China.
 
