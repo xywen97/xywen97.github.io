@@ -21,7 +21,7 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 
 
 # 🔥 News
-
+- *2026.01*: &nbsp;🎉🎉 Our papers are accepted by ICLR 2026. 
 - *2025.09*: &nbsp;🎉🎉 Our paper is accepted by NeurIPS 2025. 
 - *2025.08*: &nbsp;🎉🎉 Our paper is accepted by EMNLP 2025. 
 - *2025.07*: &nbsp;🎉🎉 Our paper is accepted by ICCAD 2025. 
@@ -39,7 +39,17 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 
 # 📝 Publications 
 
-## Recent Papers (2025)
+## Recent Papers
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/Entropy_ICLR_2026' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Making Slow Thinking Faster: Compressing LLM Chain-of-Thought via Step Entropy](https://arxiv.org/abs/2508.03346)
+
+Zeju Li, Jianyuan Zhong, Ziyang Zheng, **Xiangyu Wen**, Zhijian Xu, Yingying Cheng, Fan Zhang, Qiang Xu
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/GRiD_NeurIPS_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
