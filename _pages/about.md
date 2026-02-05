@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Science and Engineering at the Chinese University of Hong Kong as a third-year Ph.D. student. Now I am studying in the CUHK REliable Computing Laboratory (CURE Lab.) and my supervisor is Prof. XU Qiang. Before this, I got my Bachelor's and Master's Degrees (supervised by Prof. Jiang Wei) from the University of Electronic Science and Technology of China. My research interests are about Large Language Model (Reasoning) and AI security.
+Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Science and Engineering at the Chinese University of Hong Kong as a fourth-year Ph.D. candidate. Now I am studying in the CUHK REliable Computing Laboratory (CURE Lab.) and my supervisor is Prof. XU Qiang. Before this, I got my Bachelor's and Master's Degrees (supervised by Prof. Jiang Wei) from the University of Electronic Science and Technology of China. My research interests are about Large Language Model Reasoning, Agent for Personal AI Assistant, and AI security.
 
 
 # 🔥 News
