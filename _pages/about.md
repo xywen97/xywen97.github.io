@@ -41,7 +41,7 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 
 ## Recent Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/Scaffolding_ICLR_2026' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/Scaffolding_ICLR_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reasoning Scaffolding: Distilling the Flow of Thought from LLMs](https://arxiv.org/abs/2509.23619)
@@ -51,7 +51,7 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/Entropy_ICLR_2026' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/Entropy_ICLR_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Making Slow Thinking Faster: Compressing LLM Chain-of-Thought via Step Entropy](https://arxiv.org/abs/2508.03346)
