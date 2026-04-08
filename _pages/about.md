@@ -42,7 +42,7 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 
 # 📝 Publications 
 
-## Recent Papers
+## Selected Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/Solve-detect-verify_ACL_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
