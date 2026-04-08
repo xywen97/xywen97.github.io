@@ -32,9 +32,11 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 <details>
 <summary><strong>Click to expand/collapse older news</strong></summary>
 
-- *2024.10*: &nbsp;🎉🎉 Our paper is accepted by IEEE JETCAS 2024. 
-- *2024.09*: &nbsp;🎉🎉 Our paper is accepted by IEEE Transactions on Computers (TC) 2024. 
-- *2022.11*: &nbsp;🎉🎉 Won 2nd place in the International Algorithm Case Competition.
+<ul>
+  <li><em>2024.10</em>: &nbsp;🎉🎉 Our paper is accepted by IEEE JETCAS 2024.</li>
+  <li><em>2024.09</em>: &nbsp;🎉🎉 Our paper is accepted by IEEE Transactions on Computers (TC) 2024.</li>
+  <li><em>2022.11</em>: &nbsp;🎉🎉 Won 2nd place in the International Algorithm Case Competition.</li>
+</ul>
 
 </details> 
 
