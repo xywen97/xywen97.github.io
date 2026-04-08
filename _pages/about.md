@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Science and Engineering at the Chinese University of Hong Kong as a fourth-year Ph.D. candidate. Now I am studying in the CUHK REliable Computing Laboratory (CURE Lab.) and my supervisor is Prof. XU Qiang. Before this, I got my Bachelor's and Master's Degrees (supervised by Prof. Jiang Wei) from the University of Electronic Science and Technology of China. My research interests are about Large Language Model Reasoning, Agent for Personal AI Assistant, and AI security.
+Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Science and Engineering at the Chinese University of Hong Kong as a fourth-year Ph.D. candidate. Now I am studying in the CUHK REliable Computing Laboratory (CURE Lab.) and my supervisor is Prof. XU Qiang. Before this, I got my Bachelor's and Master's Degrees (supervised by Prof. Jiang Wei) from the University of Electronic Science and Technology of China. My research interests are about Large Language Model Reasoning, Agent Harness, and AI security.
 
 
-# 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Our papers are accepted by ICLR 2026. 
+# 🔥 News 
+- *2026.04*: &nbsp;🎉🎉 Our two papers are accepted by ACL 2026, and ACL 2026 Findings, respectively. 
+- *2026.01*: &nbsp;🎉🎉 Our two papers are accepted by ICLR 2026. 
 - *2025.09*: &nbsp;🎉🎉 Our paper is accepted by NeurIPS 2025. 
 - *2025.08*: &nbsp;🎉🎉 Our paper is accepted by EMNLP 2025. 
 - *2025.07*: &nbsp;🎉🎉 Our paper is accepted by ICCAD 2025. 
@@ -40,6 +41,26 @@ Hello, my name is Wen Xiangyu. I was admitted to the Department of Computer Scie
 # 📝 Publications 
 
 ## Recent Papers
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/Solve-detect-verify_ACL_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Solve-Detect-Verify: Inference-Time Scaling with Flexible Generative Verifier](https://openreview.net/pdf?id=PXErl3ggTX)
+
+Jianyuan Zhong, Zeju Li, Zhijian Xu, **Xiangyu Wen**, Kezhi Li, Qiang Xu 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/Beyond_ACL_2026_findings.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Overlap Metrics: Rewarding Reasoning and Preferences for Faithful Multi-Role Dialogue Summarization](https://openreview.net/pdf?id=4iMJscN9Fb)
+
+Xiaoyong Mei, Tingting Zuo, Da Chen, Guangyu Hu, **Xiangyu Wen**, Chao Duan, Mingyan Zhang, Fudan Zheng
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/Scaffolding_ICLR_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
